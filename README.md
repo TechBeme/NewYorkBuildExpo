@@ -17,7 +17,7 @@ Identified and accessed a hidden API behind JavaScript code on the expo website 
 **3. Results Obtained:**
 Successfully collected all requested data fields for 426 exhibitors. Additionally, enriched the dataset with social media profiles and detailed company descriptions, providing enhanced insights for the client’s engagement strategies.
 
-## Data fields to be extracted from New York Build Expo website.
+## Data to be extracted from New York Build Expo website.
 [![newyorkbuildexpo](https://github.com/TechBeme/Connect365/assets/101749351/5f6155ef-c675-4a86-924e-8256ac9ce9cc)](https://newyorkbuildexpo.com/2024-exhibitors)
 
 ## Output table with the extracted data.
